@@ -1,4 +1,4 @@
-# Xadow---NFC-tag
+# Xadow-NFC tag
 
 SKU: 113040004
 
